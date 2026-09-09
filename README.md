@@ -203,16 +203,16 @@ Create 10-15 technology data with:
 
 ## ❓ Common FAQ
 
-**1. Where can we deploy the site?**
+**1. Where can we deploy the site?**  
 Anywhere you like — Netlify, Vercel, Cloudflare Pages, or any other host. There is no fixed platform.
 
-**2. Do we have to use TypeScript?**
+**2. Do we have to use TypeScript?**  
 No. You can use TypeScript or JavaScript. If you want to build the whole project in plain JavaScript, that is completely fine.
 
-**3. Can we change the title, logo, and colors?**
+**3. Can we change the title, logo, and colors?**  
 Yes. The project title, logo, and color scheme are all yours to change — just keep them relevant to the project. Don't use random or gobindo colors and don't put an unrelated title/logo.
 
-**4. Where do we get the technology logos/icons?**
+**4. Where do we get the technology logos/icons?**  
 You can use image URLs from Google or from anywhere you like. A good source with clean, ready-to-use tech logos is <https://techicons.dev/> — copy the icon URL from there and put it in your JSON data.
 
 ---
