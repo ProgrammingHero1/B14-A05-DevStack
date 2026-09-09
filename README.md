@@ -49,7 +49,7 @@
 ---
 
 ### 📦 JSON Data
-Create 20–26 technology data with:
+Create 10-15 technology data with:
 - id
 - name
 - category (Frontend / Backend / Database / Language / Styling / DevOps / Tools)
