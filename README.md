@@ -184,13 +184,6 @@ Create 10-15 technology data with:
 
 ---
 
-## Optional Features:
-1. Disable the "Add to Stack" button and change its label after a technology is added.
-2. Keep the "Your Stack" panel sticky so it stays visible while scrolling the technology grid.
-3. Show the selected count in the panel heading area and update it live.
-
----
-
 ## ⚙️ Technology You Can Use
 - React.js
 - Tailwind CSS, DaisyUI
